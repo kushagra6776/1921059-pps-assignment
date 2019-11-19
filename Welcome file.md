@@ -1,28 +1,4 @@
   
-[Skip to content](https://mail.google.com/mail/u/1/)  
-[Using Gmail with screen readers](https://mail.google.com/mail/u/1/)  
-
-Enable desktop notifications for Gmail. OK No thanks
-
-1 of 6,136
-
-## MD PPS
-
-Inbox
-
-x
-
-![](https://ssl.gstatic.com/ui/v1/icons/mail/profile_mask2.png)
-
-### Guraman Naman <cyberclickgn@gmail.com>
-
-12:01 PM (14 minutes ago)
-
-to me
-
-![](https://mail.google.com/mail/u/1/images/cleardot.gif)
-
----
 
 # **Programming for Problem Solving**
 
@@ -886,5 +862,5 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyOTQwODkzMV19
+eyJoaXN0b3J5IjpbMjk0MTc1MTg4LC0yMjk0MDg5MzFdfQ==
 -->
